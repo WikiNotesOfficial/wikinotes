@@ -6,6 +6,8 @@ import { Helmet } from 'react-helmet'
 const TITLE = 'WikiNotes SignUp'
 
 
+
+
 class SignUp extends Component {
   render() {
     return (
